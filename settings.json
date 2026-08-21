@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EWANNA.aternos.me",
-    "port": 14640,
-    "version": "",
+    "ip": "Highgrounds_SMP.aternos.me",
+    "port": 27437,
+    "version": "26.2",
     "try-creative": true
   },
   "position": {
     "enabled": true,
     "x": 10000,
     "y": 64,
-    "z": 0
+    "z": 10000
   },
   "utils": {
     "auto-auth": {
